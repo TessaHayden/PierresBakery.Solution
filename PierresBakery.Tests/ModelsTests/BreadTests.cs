@@ -2,10 +2,10 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using PierresBakery.Models;
 
-namespace Bread.Tests
+namespace PierresBakery.Tests
 {
   [TestClass]
-  public class BreadTests
+  public class Bread
   {
     [TestMethod]
     public void BreadConstructor_CreatesInstanceOfBread_Bread()
