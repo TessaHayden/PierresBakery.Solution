@@ -1,0 +1,15 @@
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/obj/Debug/net6.0/PierresBakery.csproj.AssemblyReference.cache
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/obj/Debug/net6.0/PierresBakery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/obj/Debug/net6.0/PierresBakery.AssemblyInfoInputs.cache
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/obj/Debug/net6.0/PierresBakery.AssemblyInfo.cs
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/obj/Debug/net6.0/PierresBakery.csproj.CoreCompileInputs.cache
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/bin/Debug/net6.0/PierresBakery
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/bin/Debug/net6.0/PierresBakery.deps.json
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/bin/Debug/net6.0/PierresBakery.runtimeconfig.json
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/bin/Debug/net6.0/PierresBakery.dll
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/bin/Debug/net6.0/PierresBakery.pdb
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/obj/Debug/net6.0/PierresBakery.dll
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/obj/Debug/net6.0/refint/PierresBakery.dll
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/obj/Debug/net6.0/PierresBakery.pdb
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/obj/Debug/net6.0/PierresBakery.genruntimeconfig.cache
+/Users/tessahayden/Desktop/Epicodus/PierresBakery.Solution/PierresBakery/obj/Debug/net6.0/ref/PierresBakery.dll
