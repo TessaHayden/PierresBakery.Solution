@@ -14,11 +14,12 @@ namespace PierresBakery.Tests
       Assert.AreEqual(typeof(Bread), newBread.GetType());
     }
     [TestMethod]
-    public void BreadFindQuantity_ReturnsQuantityOfType_Int()
+    public void GetBreadQuantity_ReturnBreadQuantity_Int()
     {
-      int setQuantity = 5;
-      Bread newBread = new Bread(setQuantity);
-      Assert.AreEqual(setQuantity, newBread.Quantity);
+      int setQty = 3;
+      Bread breadOrder = new Bread(setQty);
+      int result = breadOrder.Quantity;
+      Assert.AreEqual(setQty, result);
     }
   }
 }

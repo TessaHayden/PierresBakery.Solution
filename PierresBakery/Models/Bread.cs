@@ -5,27 +5,25 @@ namespace PierresBakery.Models
 {
   public class Bread
   {
-    public int Quantity { get; set; }
-    public int Price = 0;
-    public int Total = 0;
-    public Bread(int quantity)
+    public int Price;
+    public int Quantity;
+    public int Total;
+    public Bread(int price, int quantity, int total)
     {
+      Price = price;
       Quantity = quantity;
+      Total = total;
     }
-    public int SetPrice()
+    public string CheckPrice()
     {
-      if(Quantity == x % 1)
-      {
-        Price = double 2.5;
-      } 
-      else if (Quantity == x % 0)
-      {
-        Price = int 5;
-      }
-    }
-    public int SetTotal()
-    {
-      Total = Price * Quantity
+     if (Quantity > Price)
+     {
+        return "3 loaves";
+     }
+     else
+     {
+        return "this isn't working";
+     }
     }
   }
 }
