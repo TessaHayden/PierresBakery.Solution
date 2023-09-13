@@ -7,11 +7,16 @@ namespace PierresBakery
   {
     static void Main()
     {
-      Bread breadOrder = new Bread(3, 5, 10);
-      Console.WriteLine(breadOrder.GetType());
-      Console.WriteLine($"3 loaves of bread is {breadOrder.Price} for two loaves, the third is free!");
-      Console.WriteLine($"Your total is: {breadOrder.Total}");
-      Console.WriteLine($"Your total is: {breadOrder.CheckPrice()}.");
+      Console.WriteLine("Welcome to Pierres Bakery.");
+      Console.WriteLine("How many loaves of bread would you like to purchase?");
+      string breadQty = Console.ReadLine();
+      Console.WriteLine("How many pastries would you like to purchase?");
+      string pastryQty = Console.ReadLine();
+      int breadQuantity = int.Parse(breadQty);
+      int pastryQuantity = int.Parse(pastryQty);
+      Bread newBread = new Bread(5);
+      int Total = Bread.PriceCalc(breadQuantity);
+      Console.WriteLine($"{Total}");
     }
   }
 }
