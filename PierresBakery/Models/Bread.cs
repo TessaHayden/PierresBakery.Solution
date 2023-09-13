@@ -5,8 +5,8 @@ namespace PierresBakery.Models
 {
   public class Bread
   {
-    public int Price = 5;
-    public int static PriceCalc(int breadQuantity)
+    public static int Price = 5;
+    public static int PriceCalcBread(int breadQuantity)
     {
       int subtractedPrice = breadQuantity / 3;
       return (breadQuantity - subtractedPrice) * Price;
@@ -14,6 +14,11 @@ namespace PierresBakery.Models
   }
   public class Pastry
   {
-    public int Price = 2;
+    public static int Price = 2;
+    public static int PriceCalcPastry(int pastryQuantity)
+    {
+      int subtractedPrice = pastryQuantity / 4;
+      return (pastryQuantity - subtractedPrice) * Price;
+    }
   }
 }
