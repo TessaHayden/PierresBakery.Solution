@@ -18,7 +18,7 @@ namespace PierresBakery.Models
     public static int PriceCalcPastry(int pastryQuantity)
     {
       int subtractedPrice = pastryQuantity / 4;
-      return (pastryQuantity - subtractedPrice) * Price;
+      return (pastryQuantity - subtractedPrice) * Price;x
     }
   }
 }

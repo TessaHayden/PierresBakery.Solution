@@ -1,4 +1,4 @@
-## Currency API
+## Pierres Bakery
 
 ##### By Tessa Hayden
 
