@@ -23,6 +23,10 @@ This app will take the quantity of bread and pastries and figure out whether a d
 3. In the command line, run the command "dotnet run" to compile and execute the console application. Since this is a console application, you'll interact with it through text commands in your terminal.
 4. Optionally, you can run "dotnet build" to compile this console app without running it.
 
+### Run Tests
+1. ~ cd PierresBakery.Tests
+2. Use command "~dotnet test"
+
 #### Link to repository:
 
 https://github.com/TessaHayden/PierresBakery.Solution.git
