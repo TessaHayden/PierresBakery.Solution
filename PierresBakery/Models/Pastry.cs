@@ -3,17 +3,17 @@ using System;
 
 namespace PierresBakery.Models
 {
-  public class Bread
+  public class Pastry
   {
     public int Price { get; set; }
     public int Quantity { get; set; }
 
-    public Bread(int quantity)
+    public Pastry(int quantity)
     {
       Quantity = quantity;
-      Price = 5;
+      Price = 2;
     }
-    public int PriceCalcBread()
+    public int PriceCalcPastry()
     {
       int subtractedPrice = Quantity / 3;
       return (Quantity - subtractedPrice) * Price;
